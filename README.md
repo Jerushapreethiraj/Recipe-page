@@ -5,15 +5,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#[Recipe page challenge)
-  - [Screenshot](#screenshot)
+  - [The challenge] (#Recipe page challenge)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -55,7 +52,7 @@ To see how you can add code snippets, see below:
 </div>
 ```
 ```css
--#card1
+#card1
 {
     width: 680px;
     height: auto;
