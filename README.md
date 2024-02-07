@@ -76,6 +76,6 @@ img
 
 ## Author
 
-- Website - [R.Jerusha preethi raj](https://www.your-site.com)
+- Website - [R.Jerusha preethi raj](index.html)
 - Frontend Mentor -[@Jerushapreethiraj](https://www.frontendmentor.io/profile/Jerushapreethiraj)
 
