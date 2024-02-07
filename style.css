@@ -4,7 +4,7 @@ body
     display: grid;
     place-items: center;
     place-content: center;
-    height: 280vh;
+    height: 250vh;
 }
 #card1
 {
