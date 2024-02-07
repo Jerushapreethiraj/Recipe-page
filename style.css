@@ -1,0 +1,71 @@
+body
+{
+    background-color:  hsl(30, 54%, 90%);
+    display: grid;
+    place-items: center;
+    place-content: center;
+    height: 280vh;
+}
+#card1
+{
+    width: 680px;
+    height: auto;
+    border-radius: 20px;
+    padding: 14px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-family: 'Outfit', sans-serif;
+    font-weight:lighter;
+    
+    color: hsl(20, 2%, 30%);
+}
+img
+{
+    width: 640px;
+    height: 280px;
+    padding: 20px;
+    padding-bottom: 0px;
+    border-radius: 30px;
+}
+
+h1
+{
+    font-family: 'Young Serif', serif;
+    font-weight: 300;
+    color:  hsl(24, 5%, 18%);
+}
+
+#matter
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#time
+{
+    padding: 15px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background-color: hsl(330, 100%, 98%);
+}
+
+#prep
+{
+    color:hsl(332, 51%, 32%);
+}
+
+h2
+{
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif', serif;
+    font-weight: 100;
+}
+
+p
+{
+    font-size: 16px;
+}
+
+
+
